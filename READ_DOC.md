@@ -1,3 +1,5 @@
+Auteur : Agathe PASCAL
+
 # RECAP
 
 This document contains (1) the full Science article **“A Neural Substrate of Prediction and Reward”** by Schultz, Dayan, and Montague, and (2) the beginning of **“Language Acquisition and Use: Learning and Applying Probabilistic Constraints”** by Seidenberg.
